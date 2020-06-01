@@ -1,0 +1,13 @@
+Id: HanKleijn.HNSKY
+Version: 4.1.17
+Name: Hallo Northern Sky Planetarium Program
+Publisher: Han Kleijn
+License: GPLv3
+Tags: telescope, planetarium, ascom, indi, deep sky
+Description: HNSKY can control your telescope via the ASCOM or INDI interface, has a comprehensive up to date deep sky database with 30.000 objects and detailed descriptions. A star database with millions of stars and hundreds of Deep Sky Survey images which blends in accurately.
+Homepage: http://www.hnsky.org/software.htm
+Installers:
+  - Arch: x86
+    Url: https://sourceforge.net/projects/hnsky/files/windows_installer/hnsky_setup.exe/download
+    Sha256: 7C320E26CA7D091E77D2D5E069691C42D6A00B2C60199CD274F3AD2B79D84698
+    InstallerType: inno
