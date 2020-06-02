@@ -1,0 +1,13 @@
+Id: Balsamiq.Balsamiq
+Version: 4.0.41
+Name: Balsamiq Wireframes for Desktop
+Publisher: Balsamiq Studios LLC
+License: Copyright (c) Balsamiq Studios LLC
+Tags: ux, interface, design, wireframe
+Description: Sketch your User Interface ideas and get everyone on the same page. It makes work fun!
+Homepage: https://balsamiq.com/wireframes/
+Installers:
+  - Arch: x64
+    Url: https://builds.balsamiq.com/bwd/Balsamiq_Wireframes_4.0.41_x64_Setup.msi
+    Sha256: 6822782C3655C7347FEA6E2EF4E719AD28224AFE46F76B0347C31847E52A8C06
+    InstallerType: msi
