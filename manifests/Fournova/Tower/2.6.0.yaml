@@ -1,0 +1,15 @@
+Id: Fournova.Tower
+Version: 2.6.0
+Name: Tower
+Publisher: Fournova Software GmbH
+License: Copyright (c) Fournova Software GmbH
+LicenseUrl: https://www.git-tower.com/legal/eula/windows
+AppMoniker: git-tower
+Tags: git, sourcecontrol, 30-day-trial
+Description: Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. 30-day trial.
+Homepage: https://www.git-tower.com/windows
+Installers:
+  - Arch: x64
+    Url: https://fournova-app-updates.s3.amazonaws.com/apps/tower2-win/342-c016a828/Tower-2.6.0-342.exe
+    Sha256: E81AA868A0F5F212732EDC1303774E295D64906CAD60EF130C8375C9155ADA90
+    InstallerType: exe
