@@ -1,0 +1,13 @@
+Id: ChasseurDeBots.Warsow
+Version: 2.1.2
+Name: Warsow
+Publisher: Chasseur de Bots
+License: Copyright (c) Chasseur de Bots
+Tags: game, fps, shooter
+Description: Set in a futuristic cartoonish world, Warsow is a completely free fast-paced first-person shooter (FPS) for Windows, Linux and macOS.
+Homepage: https://warsow.net/
+Installers:
+  - Arch: x86
+    Url: https://warsow.net/warsow-2.1.2-setup.exe
+    Sha256: 937B8F62D1065CABAE5ABC22123B9C7E44BCC4A1AF55ED64B26F51D061F08D5D
+    InstallerType: inno
