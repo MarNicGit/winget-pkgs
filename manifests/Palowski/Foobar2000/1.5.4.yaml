@@ -1,0 +1,15 @@
+Id: Pawlowski.Foobar2000
+Version: 1.5.4
+Name: Foobar2000
+Publisher: Peter Pawłowski
+License: Freeware
+LicenseUrl: https://www.foobar2000.org/license
+AppMoniker: fb2k
+Tags: music, mp3, player
+Description: foobar2000 is an advanced freeware audio player for the Windows platform.
+Homepage: https://www.foobar2000.org
+Installers:
+  - Arch: x86
+    Url: https://www.foobar2000.org/getfile/950eec26344935b9c7799af2f0c82365/foobar2000_v1.5.4.exe
+    Sha256: 8B4805C1049273220C52418C1A33C1FF701A4E4127333628A4B07E9A2705C49D
+    InstallerType: nullsoft
