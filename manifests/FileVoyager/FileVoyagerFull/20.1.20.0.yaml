@@ -1,0 +1,13 @@
+Id: FileVoyager.FileVoyagerFull
+Version: 20.1.20.0
+Name: FileVoyager
+Publisher: FileVoyager
+License: Freeware
+Tags: file manager, explorer
+Description: FileVoyager is a freeware Orthodox file manager (OFM) for Microsoft Windows. OFM’s are file managers using two panels of disks browsers. This dual pane layout makes very easy the transfer operations of files or folders between sources and destinations.
+Homepage: https://www.filevoyager.com
+Installers:
+  - Arch: x86
+    Url: https://www.filevoyager.com/wp-content/uploads/FileVoyager_Setup_20.1.20.0_Full.exe
+    Sha256: 5D67F0355B5738BCC499D3AD76D03F519CD03365BEC4EA1705EFB0FDB1BB95DD
+    InstallerType: inno
