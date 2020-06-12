@@ -1,0 +1,14 @@
+Id: GPSoftware.DirectoryOpus
+Version: 12.20
+Name: Directory Opus
+Publisher: GPSoftware
+License: Copyright (c) GPSoftware
+LicenseUrl: https://www.gpsoft.com.au/footer/copyrights.html
+Tags: explorer, file manager, 60-day-trial
+Description: Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today. Free 60 day evaluation.
+Homepage: https://www.gpsoft.com.au
+Installers:
+  - Arch: x86
+    Url: https://www.gpsoft.com.au/DScripts/download.asp?file=Opus12/DOpusInstall.exe
+    Sha256: 8829A9F3B0F27F334935FB9FE88DC1646ABDD6B01F705F3290C37F358D7EDD78
+    InstallerType: inno
