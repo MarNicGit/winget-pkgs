@@ -1,0 +1,13 @@
+Id: MediaCoder.MediaCoder
+Version: 0.8.61
+Name: MediaCoder
+Publisher: MediaCoder
+License: MediaCoder ©2005-2020
+Tags: transcoder, convert, video, audio
+Description: MediaCoder is a universal media transcoding software actively developed and maintained since 2005. It puts together most cutting-edge audio/video technologies into an out-of-box transcoding solution with a rich set of adjustable parameters which let you take full control of your transcoding.
+Homepage: https://www.mediacoderhq.com/
+Installers:
+  - Arch: x64
+    Url: https://mediatronic.com.au/download/files/MediaCoder-x64-0.8.61.exe
+    Sha256: 22A3811D39E97A4C2EF30F4CC4C2B744DBB519844F3AE000EA01FFE054A0770A
+    InstallerType: nullsoft
